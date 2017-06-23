@@ -6,3 +6,5 @@ use autodie;
 my $uncle = "Bob\n";
 chomp $uncle;
 say "'$uncle'";
+
+#what
