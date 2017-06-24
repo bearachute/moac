@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 
+# i made it work! see foreach below
 my @count = qw( eenie miney moe );
 my @duck = qw( huey dewey louie);
 my @game = qw( duck duck grayduck );
